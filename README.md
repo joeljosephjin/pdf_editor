@@ -11,3 +11,4 @@ Tasks such as:
 # Future
 
 Make it into a web app which can be instantly hosted and stuff.
+Use docker?
